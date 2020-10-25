@@ -12,6 +12,7 @@
     "prettier": "^2.1.2"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "nature-remo": "^1.2.3"
   }
 }
